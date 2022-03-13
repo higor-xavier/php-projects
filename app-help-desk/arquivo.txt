@@ -1,3 +1,4 @@
 Notebook não liga#Hardware#blablabla
 Erro de impressão#Impressora#o de sempre
 Celular bugado#Software#App travando
+Celular com vírus#Software#Meu antivirus não funciona
