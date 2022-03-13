@@ -1,5 +1,0 @@
-2#Erro de impressão#Impressora#Cartucho com defeito
-4#Notebook não liga#Hardware#Notebook pegou fogo
-4#Celular bugado#Hardware#Deixei o celular cair no vaso
-3#Celular com vírus#Software#Acessei um site conhecido e agora o celular não liga
-3#Resetei o roteador#Rede#Caiu café no roteador e eu tive que resetar
